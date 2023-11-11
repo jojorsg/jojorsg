@@ -5,25 +5,64 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojorsg&theme=darkhub&column=7" alt="jojorsg" /></a> </p>
 
-- 🌱 Estou aprendendo atualmente sobre **Spring** e **AWS**
+- 🌱 Estou aprendendo atualmente sobre **Spring** e **Computação em Nuvem**
 
 - 📫 Você pode me contatar através do email **josueroberto099@gmail.com**.
 
 - ⚡ **Fato interessante sobre mim:** quando decido que vou aprender sobre algo, nenhuma dificuldade me impede de aprender!
 
- 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/josué-roberto-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josué-roberto-santana" height="30" width="40" /></a>
-<a href="https://instagram.com/jojorsg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jojorsg_" height="30" width="40" /></a>
-</p>
+<h3> :rocket: &nbsp;Skills </h3>
 
- 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+**Languages and Frameworks**
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![C](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+  
+**Database**
+
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-133331?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-193E0D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+**Utilities and Tools**
+
+  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Microsoft_Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+
+  
+**Developing Tools**
+
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-703F70?style=for-the-badge&logo=insomnia&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-0037A2?style=for-the-badge&logo=docker&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-0063FF?style=for-the-badge&logo=notion&logoColor=white)
+
+
+<h3>
+  <i class="fas fa-share-alt"></i>
+  Conecte-se comigo:
+</h3>
+
+<div> 
+<a href="https://instagram.com/jojorsg_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:josueroberto099@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/josué-roberto-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style=target="_blank"></a> 
+ </div>
 
  <br><br>
- 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jojorsg&show_icons=true&locale=en&layout=compact" alt="jojorsg" /></p>
 
+<div>
+  <a href="https://github.com/jojorsg">
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=jojorsg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojorsg&layout=compact&langs_count=7&theme=react" />  
+</div>
+   
+ <br><br>
+   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=054bfa&height=120&section=footer"/>
+
