@@ -1,15 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=054bfa&height=120&section=header"/>
 
-<h1 align="center">Olá 👋, Meu nome é Josué!</h1>
-<h3 align="center">Sou um desenvolvedor com foco em Java e seus frameworks ☕</h3>
+<h1 align="center">Olá 👋, seja bem vindo ao meu perfil!</h1>
+<h3 align="center">Eu sou um desenvolvedor Back-End 💻⚙️.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojorsg&theme=darkhub&column=7" alt="jojorsg" /></a> </p>
 
-- 🌱 Estou aprendendo atualmente sobre **Spring** e **Computação em Nuvem**
+<h3> 🧍‍♂️ Sobre mim </h3>
 
-- 📫 Você pode me contatar através do email **josueroberto099@gmail.com**.
+- 💬 Meu nome é Josué.
 
-- ⚡ **Fato interessante sobre mim:** quando decido que vou aprender sobre algo, nenhuma dificuldade me impede de aprender!
+- 👨‍💻 Atuo com infraestrutura e com desenvolvimento.
+
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
@@ -55,7 +57,7 @@
 
 <h3>
   <i class="fas fa-share-alt"></i>
-  Conecte-se comigo:
+  📫  Conecte-se comigo:
 </h3>
 
 <div> 
