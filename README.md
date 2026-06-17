@@ -1,17 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=054bfa&height=120&section=header"/>
 
-<h1 align="center">Olá 👋, seja bem vindo ao meu perfil!</h1>
-<h3 align="center">Eu sou um desenvolvedor Back-End 💻⚙️.</h3>
+<h1 align="center">Opa, bem vindo ao meu perfil! 👋</h1>
+<h3 align="center">Sou um analista de TI 💻⚙️</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojorsg&theme=darkhub&column=7" alt="jojorsg" /></a> </p>
+<h3>Sobre mim 🧍‍♂️: </h3>
 
-<h3> 🧍‍♂️ Sobre mim </h3>
+- 👨‍💻 Atuo com redes, infraestrutura e com desenvolvimento.
 
-- 💬 Meu nome é Josué.
-
-- 👨‍💻 Atuo com infraestrutura e com desenvolvimento.
-
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou cursando mestrado em Ciência da Computação.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
